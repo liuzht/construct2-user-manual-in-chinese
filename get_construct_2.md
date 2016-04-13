@@ -21,6 +21,9 @@
 
 我们有[Facebook主页](http://www.facebook.com/ScirraOfficial)，[Twitter主页](https://twitter.com/#!/Scirra)和[Google+主页](https://plus.google.com/105404553461194404336/posts)。如果你使用这些服务中的任何一种，你可以关注我们。我们会在上面发布新版本发布信息，以及其他你可能感兴趣的信息。
 
+###测试版更新###
+
+测试版更新初期是不可用的，但是马上就会发布并且会比稳定版的发布更有规律。如果你想帮助测试这些版本，面对可能的漏洞或者崩溃等风险，你可以在[发布列表](http://www.scirra.com/construct2/releases)里发现测试版本，或者在偏好对话中设置Construct 2告诉你关于测试版更新的事情。
 
 
 
