@@ -1,2 +1,2 @@
 #1.Installing
-在这一章我们让你安装并运行Construct2。参照下载和更新Construct 2，
+在这一章我们让你安装并运行Construct2。我们会参照下载和更新Construct 2，然后是安装过程，如何使用许可证假如你购买了的话，以及系统配置需求提醒。
