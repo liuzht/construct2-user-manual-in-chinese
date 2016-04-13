@@ -1,4 +1,4 @@
-# 获得 Construct 2
+# 1.1 获得 Construct 2
 
 ### 从官网下载
 
