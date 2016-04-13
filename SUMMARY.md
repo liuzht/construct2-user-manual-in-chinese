@@ -1,11 +1,11 @@
 # Summary
 
 * [Introduction](README.md)
-* [Installing](installing.md)
-   * 1.1 获得 Construct 2
-* [2.概览](Overview.md)
+* [安装](Installing.md)
+   * 获得 Construct 2
+* 概览
    * 开始页面
-* [3.接口](Interface.md)
+* [接口](Interface.md)
 * 4.Project primitives
 * 5.Behavior Reference
 
