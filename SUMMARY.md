@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [1.Installing](installing.md)
+* [Installing](installing.md)
    * 1.1 获得 Construct 2
 * [2.概览](Overview.md)
    * 开始页面
