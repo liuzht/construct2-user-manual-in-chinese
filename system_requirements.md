@@ -1,3 +1,5 @@
+# 1.4 系统需求
+
 Construct 2编辑器目前只能在**Windows**下运行。常见问题请看支持系统[FAQ](http://www.scirra.com/construct2/faq)。
 
 尽管Construct 2自身只能在Windows下运行，但由它制作的HTML5游戏却可以在任意的计算机和设备上运行。更多信息请看Technology小节。

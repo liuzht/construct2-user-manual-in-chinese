@@ -1,4 +1,4 @@
-# 安装Construct2
+# 1.2 安装Construct2
 
 一旦你下载好了Construct 2，安装就开始了。点击下一步 > 来进行安装。
 
