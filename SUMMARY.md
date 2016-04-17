@@ -11,6 +11,7 @@
    * [界面](the_interface.md)
    * [项目结构](project_structure.md)
    * [保存、分享与合作](saving_sharing_and_collaborating.md)
+   * [测试与发布](testing_and_publishing.md)
 * [接口](Interface.md)
 * [项目元素](Project_primitives.md)
 * Behavior Reference
