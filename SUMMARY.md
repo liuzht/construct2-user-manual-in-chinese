@@ -16,7 +16,7 @@
    * [技术相关](technology.md)
    * [最佳做法](best_practices.md)
    * [性能建议](performace_tips.md)
-* [接口](Interface.md)
+* [界面](Interface.md)
    * [文件菜单](file_menu.md)
    * [菜单栏](ribbon.md)
    * [项目栏](project_bar.md)
