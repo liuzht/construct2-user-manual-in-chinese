@@ -27,6 +27,10 @@
    * [瓷片地图栏](tilemap_bar.md)
    * [书签栏](bookmarks_bar.md)
    * [布局视图](layout_view.md)
+   * [事件列表视图](event_sheet_view.md)
+   * [图片与动画编辑器](image_and_animations_editor.md)
+   * [对话](dialogs.md)
+   * [键盘快捷键](keyboard_shortcuts.md)
 * [项目元素](Project_primitives.md)
 * Behavior Reference
 
