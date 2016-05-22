@@ -31,6 +31,7 @@
    * [图片与动画编辑器](image_and_animations_editor.md)
    * [对话](dialogs.md)
    * [键盘快捷键](keyboard_shortcuts.md)
+   * [调试器](debugger.md)
 * [项目元素](Project_primitives.md)
 * Behavior Reference
 
